@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True" ,
+    "local_uri":"mysql://root:@localhost/practice",
+    "prod_uri": "mysql://root:@localhost/practice",
+    "copy_right": "copyright @ Guruprasad 2020",
+    "tw_uri": "https://www.twitter.com",
+    "fb_uri": "https://www.facebook.com",
+    "gh_uri": "https://www.github.com",
+    "about_txt": "I am Guruprasad guru i am here learning how to devlope flask web app  ",
+    "navbarbrand": "flask App",
+    "home_title": "This is my First flask app",
+    "home_stitle": "This is sub heading",
+    "no_ofpost": 2,
+    "admin_user": "admin",
+    "admin_pwd": "123456",
+    "upload_location": "C:\\Users\\gurup\\My first app\\static\\img"
+
+  }
+
+}
